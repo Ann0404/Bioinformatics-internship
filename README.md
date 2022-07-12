@@ -1,6 +1,6 @@
 # Bioinformatics-internship
-**Diary of an intern student**  
-This is a descreption of my journey at ICIPE  
+**Diary of an intern**  
+This is a description of my journey at ICIPE  
 ## **Vision**  
 * To be a whole rounded bioinformatician.  
 ## **Mission**  
