@@ -17,7 +17,7 @@ To tone down the nerves. I have established these milestones to help achieve one
 * [ ] Python
  
 ### Milestone  
-* [ ] Understand and farmiliarise myself with netflow    
+* [ ] Understand and familiarise myself with netflow    
 * [ ] Learn and understand data science and its comparison with bioinformatics
     
 ### Milestone  
