@@ -13,4 +13,4 @@ My mission is to understand and apply the knowledge gained from this internship 
 * To design algorithms that will enable efficient analyisis of data.
 * To identify and approach mentors. 
   
- ## [Roadmap](https://github.com/Ann0404/Bioinformatics-internship/blob/ROADMAP/README.md#roadmap)
+ ## [Roadmap](https://github.com/Ann0404/Bioinformatics-internship/blob/Branch/README.md#roadmap)
