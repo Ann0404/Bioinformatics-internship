@@ -21,7 +21,7 @@ To tone down the nerves. I have established these milestones to help achieve one
     
 ### Fifth milestone  
 * Learn how to carry out the different downstream processes post sequencing on a terminal
- especially trimming, contig assembly, multiple sequence alignments and phylogeny.
+ especially trimming, contig assembly, multiple sequence alignments and phylogeny as well as create better workflows.
  
  ### Sixth milestone  
  I hope to apply everything I have learnt to a project.  
