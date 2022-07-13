@@ -1,5 +1,5 @@
 # Bioinformatics-internship  
-Ann here! I have started this **great** internship at ICIPE and I am going to try and note down the different things I will learn from my time here.:) Let's get started!!  
+Ann here! I have started this ***great*** internship at ICIPE and I am going to try and note down the different things I will learn from my time here.:) Let's get started!!  
 
 ## **Welcome to the diary of an intern**  
 This is the description of my four month journey at ICIPE  
