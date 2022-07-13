@@ -11,4 +11,4 @@ My mission is to understand and apply the knowledge gained from this internship 
 * To understand and apply python and R in creating better workflows.  
 * To carry out the different genomic analysis processes comfortably on a terminal.  
 * To design algorithms that will enable efficient analyisis of data.
-* To identify mentors to guide me in this genomic journey.  
+* To identify and approach mentors. 
