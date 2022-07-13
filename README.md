@@ -26,7 +26,7 @@ To tone down the nerves. I have established these milestones to help achieve one
  ### Sixth milestone  
  I hope to apply everything I have learnt to a project.  
  
- By the end of this internship i hope to be able to manipulate and analyse any genomic data.
+ By the end of this internship i hope to be able to manipulate and analyse any genomic data especially metagenomic data.
  
  And in all have fun 
  > People rarely succeed unless they have fun in what they are doing.  
