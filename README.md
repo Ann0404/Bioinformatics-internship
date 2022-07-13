@@ -4,9 +4,11 @@ Ann here! I have started this ***great*** internship at ICIPE and I am going to 
 ## **Welcome to the diary of an intern**  
 This is the description of my four month journey at ICIPE  
 ## **Vision**  
-* To understand and apply the aspects of computational biology including Python and R to the research on AMR genes using metagenomic data as an initial step in drug discovery by identifying new drug targets.
+* To understand and apply the aspects of computational biology including Python and R to the research on AMR genes using metagenomic data, as an initial step in drug discovery by establishing new drug targets.
 ## **Mission**  
+My mission is to understand and apply the knowledge gained from this internship to navigate the different bioinformatic tools available for analysis of AMR genes for the purpose of identifying new drug targets as well as for evolutionary studies. In addition to that I also hope:
 * To wholly embrace my training at ICIPE.  
 * To understand and apply python and R in creating better workflows.  
-*  
+* To carry out the different genomic analysis processes comfortably on a terminal.  
+* To design algorithms that will enable efficient analyisis of data.
 * To identify mentors to guide me in this genomic journey.  
