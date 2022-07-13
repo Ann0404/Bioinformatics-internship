@@ -12,4 +12,5 @@ My mission is to understand and apply the knowledge gained from this internship 
 * To carry out the different genomic analysis processes comfortably on a terminal.  
 * To design algorithms that will enable efficient analyisis of data.
 * To identify and approach mentors. 
-
+  
+ ## [Roadmap](https://github.com/Ann0404/Bioinformatics-internship/blob/ROADMAP/README.md#roadmap)
